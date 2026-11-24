@@ -1,0 +1,9 @@
+<!-- Testtext T6: viele Fachbegriffe und Literaturverweise (Materialwissenschaft). Alle Literaturverweise sind fiktive Platzhalter für den Test. -->
+
+## 2.2 Stand der Forschung zur additiven Fertigung von Ti-6Al-4V
+
+Das selektive Laserstrahlschmelzen (engl. Laser Powder Bed Fusion, L-PBF) hat sich in den letzten Jahren zunehmend als Fertigungsverfahren für Implantate aus Ti-6Al-4V etabliert (Weber et al., 2019; Klein und Hoffmann, 2021). Aufgrund der hohen Abkühlraten von bis zu 10^6 K/s bildet sich im L-PBF-Prozess überwiegend martensitisches α'-Gefüge, das eine hohe Festigkeit, jedoch eine geringe Bruchdehnung aufweist [3, 4]. Durch eine nachgelagerte Wärmebehandlung oberhalb von 800 °C lässt sich das α'-Gefüge in ein lamellares α+β-Gefüge umwandeln, wodurch die Duktilität steigt (Schulz, 2020, S. 112).
+
+Darüber hinaus weisen L-PBF-Bauteile prozessbedingt Porosität auf. Neben Gasporen, die aus im Pulver eingeschlossenem Argon stammen, treten Bindefehler (engl. lack of fusion) bei zu geringer Volumenenergiedichte sowie Keyhole-Poren bei zu hoher Volumenenergiedichte auf [5]. Studien zeigen, dass heißisostatisches Pressen (HIP) die Porosität auf unter 0,01 % reduziert. Lee et al. (2022) berichten zudem, dass die Ermüdungsfestigkeit nach HIP um etwa 30 % zunimmt, was die Bedeutung der Nachbehandlung unterstreicht.
+
+Die Oberflächenrauheit stellt einen weiteren entscheidenden Faktor für die Ermüdungsfestigkeit dar. Typische Rauheitswerte im unbearbeiteten Zustand liegen bei Ra = 10–20 µm [6]. Mehrere Autoren empfehlen daher eine mechanische oder chemische Nachbearbeitung funktionsrelevanter Flächen (Weber et al., 2019; Lee et al., 2022). Für die Osseointegration kann eine gewisse Rauheit hingegen erwünscht sein, sodass hier ein Zielkonflikt zwischen mechanischer und biologischer Funktion besteht.

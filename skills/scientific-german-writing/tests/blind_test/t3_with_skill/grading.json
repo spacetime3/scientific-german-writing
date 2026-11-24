@@ -1,0 +1,55 @@
+{
+ "expectations": [
+  {
+   "text": "Integrität: alle geschützten Elemente unverändert",
+   "passed": true,
+   "evidence": "{}"
+  },
+  {
+   "text": "Keine neuen Literaturverweise erfunden",
+   "passed": true,
+   "evidence": "set()"
+  },
+  {
+   "text": "Kein Herkunftsurteil ('KI-generiert') im Bericht",
+   "passed": true,
+   "evidence": ""
+  },
+  {
+   "text": "Treffer mit Gewicht >= 2 reduziert",
+   "passed": true,
+   "evidence": "16 -> 2"
+  },
+  {
+   "text": "Keine unmarkierten G3-Floskeln mehr",
+   "passed": true,
+   "evidence": "5 -> 0 (roh 0)"
+  },
+  {
+   "text": "Physikfehler Photonenenergie/Wellenlänge erkannt",
+   "passed": true,
+   "evidence": ""
+  },
+  {
+   "text": "Falsche Aussage nicht eigenmächtig umgeschrieben (Original-Satz oder Markierung erhalten)",
+   "passed": true,
+   "evidence": ""
+  },
+  {
+   "text": "B-Markierung für 'Studien zeigen' ohne Quelle",
+   "passed": true,
+   "evidence": ""
+  },
+  {
+   "text": "Keine neuen Fachaussagen eingefügt (Wortzahl der Revision <= Original)",
+   "passed": true,
+   "evidence": "199 -> 132"
+  }
+ ],
+ "metrics": {
+  "g2_before": 16,
+  "g2_after": 2,
+  "words_before": 199,
+  "words_after": 132
+ }
+}

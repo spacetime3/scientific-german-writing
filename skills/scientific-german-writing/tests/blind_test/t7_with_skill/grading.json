@@ -1,0 +1,50 @@
+{
+ "expectations": [
+  {
+   "text": "Integrität: alle geschützten Elemente unverändert",
+   "passed": true,
+   "evidence": "{}"
+  },
+  {
+   "text": "Keine neuen Literaturverweise erfunden",
+   "passed": true,
+   "evidence": "set()"
+  },
+  {
+   "text": "Kein Herkunftsurteil ('KI-generiert') im Bericht",
+   "passed": true,
+   "evidence": ""
+  },
+  {
+   "text": "Treffer mit Gewicht >= 2 reduziert",
+   "passed": true,
+   "evidence": "6 -> 0"
+  },
+  {
+   "text": "Keine unmarkierten G3-Floskeln mehr",
+   "passed": true,
+   "evidence": "2 -> 0 (roh 0)"
+  },
+  {
+   "text": "'wir'-Konvention der Informatik erhalten",
+   "passed": true,
+   "evidence": ""
+  },
+  {
+   "text": "'bekanntlich'-Behauptung belegt/markiert oder entfernt+protokolliert",
+   "passed": true,
+   "evidence": ""
+  },
+  {
+   "text": "'signifikant' (nicht statistisch) behandelt",
+   "passed": true,
+   "evidence": ""
+  }
+ ],
+ "metrics": {
+  "g2_before": 6,
+  "g2_after": 0,
+  "words_before": 147,
+  "words_after": 115
+ }
+}

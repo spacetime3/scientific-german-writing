@@ -1,0 +1,45 @@
+{
+ "expectations": [
+  {
+   "text": "Integrität: alle geschützten Elemente unverändert",
+   "passed": true,
+   "evidence": "{}"
+  },
+  {
+   "text": "Keine neuen Literaturverweise erfunden",
+   "passed": true,
+   "evidence": "set()"
+  },
+  {
+   "text": "Kein Herkunftsurteil ('KI-generiert') im Bericht",
+   "passed": true,
+   "evidence": ""
+  },
+  {
+   "text": "Treffer mit Gewicht >= 2 reduziert",
+   "passed": true,
+   "evidence": "5 -> 0"
+  },
+  {
+   "text": "Keine unmarkierten G3-Floskeln mehr",
+   "passed": true,
+   "evidence": "1 -> 0 (roh 0)"
+  },
+  {
+   "text": "F-Markierung zur Dotierungs-Aussage",
+   "passed": true,
+   "evidence": ""
+  },
+  {
+   "text": "Hedging 'typischerweise' und 'in guter Näherung' erhalten",
+   "passed": true,
+   "evidence": ""
+  }
+ ],
+ "metrics": {
+  "g2_before": 5,
+  "g2_after": 0,
+  "words_before": 206,
+  "words_after": 186
+ }
+}

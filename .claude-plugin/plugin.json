@@ -1,0 +1,14 @@
+{
+  "name": "scientific-german-writing",
+  "displayName": "Scientific German Writing",
+  "version": "1.0.0",
+  "description": "Analyse und belegtreue Überarbeitung deutscher wissenschaftlicher Texte (Abschlussarbeiten, Fachartikel; Natur- und Ingenieurwissenschaften): Floskeln, KI-typische Muster, Nominalstil, Redundanz – mit Integritätsprüfung für Formeln, Zahlen und Quellen.",
+  "author": {
+    "name": "spacetime3",
+    "url": "https://github.com/spacetime3"
+  },
+  "homepage": "https://github.com/spacetime3/scientific-german-writing",
+  "repository": "https://github.com/spacetime3/scientific-german-writing",
+  "license": "MIT",
+  "keywords": ["german", "deutsch", "academic-writing", "wissenschaftliches-schreiben", "thesis", "masterarbeit", "physics", "engineering", "latex", "proofreading"]
+}

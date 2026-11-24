@@ -1,0 +1,45 @@
+{
+ "expectations": [
+  {
+   "text": "Integrität: alle geschützten Elemente unverändert",
+   "passed": true,
+   "evidence": "{}"
+  },
+  {
+   "text": "Keine neuen Literaturverweise erfunden",
+   "passed": true,
+   "evidence": "set()"
+  },
+  {
+   "text": "Kein Herkunftsurteil ('KI-generiert') im Bericht",
+   "passed": true,
+   "evidence": ""
+  },
+  {
+   "text": "Treffer mit Gewicht >= 2 reduziert",
+   "passed": true,
+   "evidence": "2 -> 1"
+  },
+  {
+   "text": "Keine unmarkierten G3-Floskeln mehr",
+   "passed": true,
+   "evidence": "2 -> 0 (roh 1)"
+  },
+  {
+   "text": "B-Markierung für 'Studien zeigen' ohne Quelle",
+   "passed": true,
+   "evidence": ""
+  },
+  {
+   "text": "Belegter Satz 'zunehmend … etabliert (Weber et al., 2019; …)' erhalten",
+   "passed": true,
+   "evidence": ""
+  }
+ ],
+ "metrics": {
+  "g2_before": 2,
+  "g2_after": 1,
+  "words_before": 196,
+  "words_after": 186
+ }
+}

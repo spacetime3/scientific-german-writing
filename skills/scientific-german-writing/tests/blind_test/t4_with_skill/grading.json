@@ -1,0 +1,30 @@
+{
+ "expectations": [
+  {
+   "text": "Integrität: alle geschützten Elemente unverändert",
+   "passed": true,
+   "evidence": "{}"
+  },
+  {
+   "text": "Keine neuen Literaturverweise erfunden",
+   "passed": true,
+   "evidence": "set()"
+  },
+  {
+   "text": "Kein Herkunftsurteil ('KI-generiert') im Bericht",
+   "passed": true,
+   "evidence": ""
+  },
+  {
+   "text": "Guter Text weitgehend unverändert (Ähnlichkeit >= 0,97)",
+   "passed": true,
+   "evidence": "ratio=1.000"
+  }
+ ],
+ "metrics": {
+  "g2_before": 0,
+  "g2_after": 0,
+  "words_before": 140,
+  "words_after": 140
+ }
+}

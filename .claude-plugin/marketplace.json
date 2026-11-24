@@ -1,0 +1,18 @@
+{
+  "name": "scientific-german-writing",
+  "owner": {
+    "name": "spacetime3",
+    "url": "https://github.com/spacetime3"
+  },
+  "description": "Claude skill for analysing and revising German scientific texts without changing equations, numbers, units or citations.",
+  "plugins": [
+    {
+      "name": "scientific-german-writing",
+      "source": "./",
+      "description": "Analyse und belegtreue Überarbeitung deutscher wissenschaftlicher Texte (Abschlussarbeiten, Fachartikel; Natur- und Ingenieurwissenschaften): Floskeln, KI-typische Muster, Nominalstil, Redundanz – mit Integritätsprüfung für Formeln, Zahlen und Quellen.",
+      "version": "1.0.0",
+      "category": "writing",
+      "tags": ["german", "deutsch", "academic-writing", "thesis", "science", "engineering", "physics", "editing", "latex"]
+    }
+  ]
+}
